@@ -41,6 +41,6 @@ sleep (1)
     score
   end
 
-  puts update_score
+  puts "Your score is #{update_score}"
 
   
